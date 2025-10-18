@@ -8,3 +8,6 @@ Lancer les conteneurs
 
 ## docker compose down
 Arrêter les conteneurs
+
+## Table 'utilisateur' dans la BDD
+pk email; firstName; lastName; pwd
