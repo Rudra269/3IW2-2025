@@ -10,4 +10,4 @@ Lancer les conteneurs
 Arrêter les conteneurs
 
 ## Table 'utilisateur' dans la BDD
-pk email; firstName; lastName; pwd
+(pk) email; firstName; lastName; pwd
